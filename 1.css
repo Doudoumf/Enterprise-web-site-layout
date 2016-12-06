@@ -1,0 +1,174 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "微软雅黑";
+	font-size: 13px;	
+}
+.main{
+	width: 1000px;
+	margin: 0 auto;
+	/*background-color: #2F615B*/
+}
+.head{
+	margin: 0 auto;
+	width:900px; 
+	/*background: red;*/
+	height: 70px
+}
+.head img{
+	float: left;
+}
+.head ul li{
+	float: left;
+	list-style-type: none;
+	width: 80px;
+	line-height: 70px;
+	text-align: center;		
+}
+.head a{
+	text-decoration: none;
+	font-size: 15px;
+	color: #141212
+}
+.head li:hover,.head li:active{
+   background-color: red;
+}
+.body{
+	width: 1000px;
+	margin: 0 auto;
+}
+.body1{	
+	height: 322px;
+	overflow: hidden;
+	margin-top: 5px;
+}
+.body2{
+	height: 60px;
+	width: 1000px;
+}
+.gundong1{
+	width: 200px;
+	height: 40px;
+	background-color: #BF5B5B;
+	float: left;
+	margin-top: 20px;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+}
+.gundong2{
+	width: 780px;
+	height: 40px;
+	background-color: #332A2A;
+	float: left;
+	margin-top: 20px;
+	color: white;
+	line-height: 40px;
+	padding-left: 20px;	
+}
+.body3 {
+	/*width: 1000px;*/
+	margin-top: 20px;
+	height: 153px;
+}
+.body3 ul li{
+	float: left;	
+    list-style-type: none;
+}
+.body3 .boot{
+	margin-right: 5px
+}
+.body3 p{
+	text-align: center;
+	border: solid #C1BEBE 1px;
+	margin-top: -4px;
+	width: 328px;
+	line-height: 20px;
+}
+.body4{
+	height: 380px;
+	margin-top: 20px;
+}
+
+.body4 .body41 ul li{
+	float: left;
+	list-style-type: none;
+	width: 310px;
+	height: 40px;
+	background-color: #BF5B5B;
+	font-size: 16px;
+	color: white;
+	line-height: 40px;
+	padding-left: 20px;
+}
+.body4 .xin{
+	margin-right: 5px;
+}
+.body41{
+	height: 40px;
+}
+.body42{
+	height: 350px;
+}
+
+
+.body4 li{
+	list-style-type: none;
+}
+
+.body4 .bayue{
+	width: 48px;
+	height: 48px;
+	background-color:#BF5B5B ;
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+	margin: 20px 10px;
+	padding-top: 20px;
+
+	/*line-height: 108px;*/
+}
+.body4 .ji{
+	width: 260px;
+	height: 108px;
+	/*margin-right: 5px;*/
+	/*background-color: blue;*/
+}
+.body4 img{
+	width: 280px;
+	height: 120px;
+	margin-top: 40px;	
+}
+.body4 .img{
+	text-align: center;
+}
+
+.body4 .xue{
+	width: 328px;
+	height: 328px;
+	float: left;
+	border: 1px solid #ADA6A6;
+
+
+}
+.body .xue li{
+	/*width: 330px;*/
+	height:108px;
+
+
+}
+.body .xue li div{
+	float: left;
+}
+.body4 #xue1,.body4 #xue2{
+	margin-right: 5px;
+}
+#zheng{
+	margin-left: 20px;
+}
+.foot{
+	height: 50px;
+	background-color: #B5A7A7;
+	text-align: center;
+	line-height: 50px
+}
